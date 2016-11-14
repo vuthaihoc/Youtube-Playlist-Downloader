@@ -44,27 +44,9 @@ youtube-dl -cit "http://www.youtube.com/playlist?list=[*playlist_id*]"
 youtube-dl --extract-audio --audio-format mp3 -cit "http://www.youtube.com/playlist?list=[*playlist_id*]"
 
 
+##About Youtube-dl update:##
+Time to time required to update youtube-dl. 
+Below you will be able to see few commands to maintain youtube-dl.s
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    Get youtube-dl version: youtube-dl --version
+    Update youtube-dl: sudo youtube-dl -U
