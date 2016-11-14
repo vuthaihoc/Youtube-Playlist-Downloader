@@ -35,6 +35,36 @@ https://github.com/rg3/youtube-dl
 
 *Before you run index.php via browser, you need to add right permission to container folder and video.sh and mp3.sh files*
 
+##You can see below another option to download Youtube video or Youtube Videos by Mp3 format:##
+
+**Download by bideo format:**
+youtube-dl -cit "http://www.youtube.com/playlist?list=[*playlist_id*]"
+
+**Download by Mp3:**
+youtube-dl --extract-audio --audio-format mp3 -cit "http://www.youtube.com/playlist?list=[*playlist_id*]"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
